@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">User Profile</string>
+    <string name="hello_world">Hello World</string>
+    <string name="name">Name:</string>
+    <string name="c">C</string>
+    <string name="section">Section :</string>
+    <string name="reg_no">Reg No. :</string>
+    <string name="phone_no">Phone No. :</string>
+    <string name="email">Email :</string>
+    <string name="submit">Submit</string>
+    <string name="likhith_balaji_reddy_t">Likhith Balaji Reddy T</string>
+    <string name="_210911144">210911144</string>
+    <string name="_8328524721">8328524721</string>
+    <string name="mail">likhithb04@gmail.com</string>
+</resources>
